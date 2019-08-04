@@ -1,0 +1,10 @@
+*
+
+!/.gitignore
+
+!/.zshrc
+!/.zshrc.d
+!/.zshrc.d/osx-brew-gnu-coreutils-man.sh
+!/.zshrc.d/zshrc.sh
+
+!/README.md
