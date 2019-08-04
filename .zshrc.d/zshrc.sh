@@ -57,8 +57,8 @@ alias gcan="git commit --amend --no-edit"
 # vault
 export VAULT_ADDR=https://vault.lukeaddison.co.uk:8200
 export VAULT_CACERT=~/.vault.d/home/ca.crt
-export VAULT_CLIENT_CERT=
-export VAULT_CLIENT_KEY=
+export VAULT_CLIENT_CERT=~/.vault.d/home/client.crt
+export VAULT_CLIENT_KEY=~/.vault.d/home/client.key
 
 # consul
 export CONSUL_HTTP_ADDR=consul.lukeaddison.co.uk:8501
